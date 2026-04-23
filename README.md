@@ -63,9 +63,9 @@ Insight-driven storytelling
 
 ## Preview
 
-**Customer Behavior** -
+**Customer Behavior** - https://github.com/Christopher-AR/Customer-Segmentation-Business-Impact-Dashboard/blob/main/Customer%20Behavior.png
 
-**Buiness Impact** -
+**Buiness Impact** - https://github.com/Christopher-AR/Customer-Segmentation-Business-Impact-Dashboard/blob/main/Business%20Impact.png
 
 
 **Feel free to connect!**
